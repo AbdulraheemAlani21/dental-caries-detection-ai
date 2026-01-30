@@ -43,8 +43,7 @@ streamlit run app.py
 
 # Model
 
-The trained VGG16 transfer learning model is included in this repository and can be used directly for inference.
-
+The trained model is available upon request.
 
 
 # Objective
